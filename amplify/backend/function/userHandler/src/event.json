@@ -1,1 +1,8 @@
-{ "test": "event" }
+{
+  "action": "add",
+  "id": "user123",
+  "data": {
+    "name": "Héloïse",
+    "email": "heloise@example.com"
+  }
+}
